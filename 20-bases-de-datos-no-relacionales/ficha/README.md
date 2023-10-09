@@ -20,9 +20,6 @@ basadas en sql.
 
 ### Objetivos
 
-* Entender la necesidad del proceso de automatización del despliegue de aplicaciones
-* Comprender cómo aplicar la automatización de pipelines a software e infraestructura
-* Discernir qué mecanismo de despliegue es más adecuado para cada situación
 
 ### Conceptos tratados
 
